@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-yplan
 Version:	20061216
-Release:	2
+Release:	3
 Summary:	Daily planner type calendar
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yplan
