@@ -1,5 +1,5 @@
 Name:		texlive-yplan
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Daily planner type calendar
 Group:		Publishing
