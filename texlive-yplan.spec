@@ -3,7 +3,7 @@ Version:	34398
 Release:	2
 Summary:	Daily planner type calendar
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yplan
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/yplan
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yplan.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yplan.doc.r%{version}.tar.xz
