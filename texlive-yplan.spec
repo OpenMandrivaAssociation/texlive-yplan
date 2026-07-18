@@ -1,5 +1,6 @@
 %global tl_name yplan
 %global tl_revision 79618
+%global tl_bin_links yplan:%{_texmfdistdir}/scripts/yplan/yplan
 
 Name:		texlive-%{tl_name}
 Version:	%{tl_revision}
@@ -14,6 +15,8 @@ BuildArch:	noarch
 BuildSystem:	texlive
 Requires:	texlive(yplan.bin)
 Provides:	texlive(%{tl_name}) = %{tl_revision}
+Provides:	texlive(%{tl_name}.bin) = %{tl_revision}
+Provides:	texlive-%{tl_name}.bin = %{EVRD}
 
 %description
 Prints two six-monthly vertical-type daily planner (i.e., months along
